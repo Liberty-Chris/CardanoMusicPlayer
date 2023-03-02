@@ -1,5 +1,5 @@
 # CardanoMusicPlayer
-Player that I developed for Music NFT's on Cardano. This implementation will work for other chains, as well.
+An audio player developed for Music NFT's on Cardano. This implementation will work for other chains, as well.
 
 
 Changes were made to improve user experience related to my NFT album's (Necksmile - Traverse) final format.
